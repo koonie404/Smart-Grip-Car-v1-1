@@ -1,0 +1,13 @@
+{
+  "name": "smart-grip-car",
+  "version": "1.0.0",
+  "description": "STM32 Smart Grip Car with Servo Gripper Control",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "serialport": "^12.0.0"
+  }
+}
