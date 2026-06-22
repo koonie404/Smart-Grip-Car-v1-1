@@ -1,0 +1,26 @@
+# Build outputs
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+
+# Local configuration
+config.json
+.env
+__pycache__/
+*.pyc
+
+# Datasets and model weights
+archive/
+datasets/
+*.zip
+*.pt
+*.onnx
+
+# IDE / OS
+.settings/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
