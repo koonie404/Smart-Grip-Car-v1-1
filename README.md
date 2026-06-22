@@ -185,5 +185,7 @@ https://github.com/user-attachments/assets/975ad997-9786-4d26-a12f-2c67290955f8
 
 임청수
 
+Embedded Firmware & Robotics Engineer
+
 GitHub
 https://github.com/koonie404
